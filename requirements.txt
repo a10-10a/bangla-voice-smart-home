@@ -1,0 +1,8 @@
+PyQt6
+sounddevice
+numpy
+torch
+silero-vad
+faster-whisper
+rapidfuzz
+requests
